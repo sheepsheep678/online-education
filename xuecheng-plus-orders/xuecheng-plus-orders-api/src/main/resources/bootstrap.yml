@@ -1,0 +1,40 @@
+#微服务配置
+spring:
+  application:
+    name: orders-api
+  cloud:
+    nacos:
+      server-addr: 192.168.101.65:8848
+      discovery:
+        namespace: devsheep
+        group: code-sheep
+      config:
+        namespace: devsheep
+        group: xuecheng-plus-project
+        file-extension: yaml
+        refresh-enabled: true
+        extension-configs:
+          - data-id: orders-service-${spring.profiles.active}.yaml
+            group: xuecheng-plus-project
+            refresh: true
+        shared-configs:
+          - data-id: swagger-${spring.profiles.active}.yaml
+            group: xuecheng-plus-common
+            refresh: true
+          - data-id: logging-${spring.profiles.active}.yaml
+            group: xuecheng-plus-common
+            refresh: true
+          - data-id: rocketmq-${spring.profiles.active}.yaml
+            group: xuecheng-plus-common
+            refresh: true
+
+
+
+  profiles:
+    active: dev
+
+rocketmq:
+  producer:
+    group: pay-notify-group  # 生产者组名
+    send-message-timeout: 3000   # 发送超时时间
+    retry-times-when-send-failed: 2 # 发送失败重试次数

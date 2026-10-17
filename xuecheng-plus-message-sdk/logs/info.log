@@ -1,0 +1,224 @@
+2026-07-17 12:19:00,284 INFO [main][SpringApplication.java:651] - No active profile set, falling back to default profiles: default
+2026-07-17 12:19:00,284 INFO [main][SpringApplication.java:651] - No active profile set, falling back to default profiles: default
+2026-07-17 12:19:00,841 DEBUG [main][LogFactory.java:105] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2026-07-17 12:19:00,841 DEBUG [main][LogFactory.java:105] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2026-07-17 12:19:00,943 INFO [main][GenericScope.java:295] - BeanFactory id=63899d2b-bcdc-3d78-8f23-cd8b3b852e5c
+2026-07-17 12:19:00,943 INFO [main][GenericScope.java:295] - BeanFactory id=63899d2b-bcdc-3d78-8f23-cd8b3b852e5c
+2026-07-17 12:19:01,206 DEBUG [main][HikariConfig.java:946] - Driver class com.mysql.cj.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2
+2026-07-17 12:19:01,206 DEBUG [main][HikariConfig.java:946] - Driver class com.mysql.cj.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2
+2026-07-17 12:19:01,456 DEBUG [main][Logger.java:49] - Property 'mapperLocations' was not specified.
+2026-07-17 12:19:01,456 DEBUG [main][Logger.java:49] - Property 'mapperLocations' was not specified.
+2026-07-17 12:19:02,405 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.messagesdk.mapper.MqMessageMapper.selectListByShardIndex
+2026-07-17 12:19:02,405 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.messagesdk.mapper.MqMessageMapper.selectListByShardIndex
+2026-07-17 12:19:02,441 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.messagesdk.mapper.MqMessageMapper.insert
+2026-07-17 12:19:02,441 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.messagesdk.mapper.MqMessageMapper.insert
+2026-07-17 12:19:02,450 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.messagesdk.mapper.MqMessageMapper.delete
+2026-07-17 12:19:02,450 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.messagesdk.mapper.MqMessageMapper.delete
+2026-07-17 12:19:02,454 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.messagesdk.mapper.MqMessageMapper.deleteByMap
+2026-07-17 12:19:02,454 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.messagesdk.mapper.MqMessageMapper.deleteByMap
+2026-07-17 12:19:02,485 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.messagesdk.mapper.MqMessageMapper.deleteById
+2026-07-17 12:19:02,485 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.messagesdk.mapper.MqMessageMapper.deleteById
+2026-07-17 12:19:02,487 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.messagesdk.mapper.MqMessageMapper.deleteBatchIds
+2026-07-17 12:19:02,487 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.messagesdk.mapper.MqMessageMapper.deleteBatchIds
+2026-07-17 12:19:02,497 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.messagesdk.mapper.MqMessageMapper.update
+2026-07-17 12:19:02,497 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.messagesdk.mapper.MqMessageMapper.update
+2026-07-17 12:19:02,500 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.messagesdk.mapper.MqMessageMapper.updateById
+2026-07-17 12:19:02,500 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.messagesdk.mapper.MqMessageMapper.updateById
+2026-07-17 12:19:02,503 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.messagesdk.mapper.MqMessageMapper.selectById
+2026-07-17 12:19:02,503 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.messagesdk.mapper.MqMessageMapper.selectById
+2026-07-17 12:19:02,505 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.messagesdk.mapper.MqMessageMapper.selectBatchIds
+2026-07-17 12:19:02,505 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.messagesdk.mapper.MqMessageMapper.selectBatchIds
+2026-07-17 12:19:02,508 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.messagesdk.mapper.MqMessageMapper.selectByMap
+2026-07-17 12:19:02,508 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.messagesdk.mapper.MqMessageMapper.selectByMap
+2026-07-17 12:19:02,513 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.messagesdk.mapper.MqMessageMapper.selectOne
+2026-07-17 12:19:02,513 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.messagesdk.mapper.MqMessageMapper.selectOne
+2026-07-17 12:19:02,518 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.messagesdk.mapper.MqMessageMapper.selectCount
+2026-07-17 12:19:02,518 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.messagesdk.mapper.MqMessageMapper.selectCount
+2026-07-17 12:19:02,525 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.messagesdk.mapper.MqMessageMapper.selectMaps
+2026-07-17 12:19:02,525 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.messagesdk.mapper.MqMessageMapper.selectMaps
+2026-07-17 12:19:02,529 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.messagesdk.mapper.MqMessageMapper.selectMapsPage
+2026-07-17 12:19:02,529 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.messagesdk.mapper.MqMessageMapper.selectMapsPage
+2026-07-17 12:19:02,532 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.messagesdk.mapper.MqMessageMapper.selectObjs
+2026-07-17 12:19:02,532 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.messagesdk.mapper.MqMessageMapper.selectObjs
+2026-07-17 12:19:02,536 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.messagesdk.mapper.MqMessageMapper.selectList
+2026-07-17 12:19:02,536 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.messagesdk.mapper.MqMessageMapper.selectList
+2026-07-17 12:19:02,539 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.messagesdk.mapper.MqMessageMapper.selectPage
+2026-07-17 12:19:02,539 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.messagesdk.mapper.MqMessageMapper.selectPage
+2026-07-17 12:19:02,585 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.messagesdk.mapper.MqMessageHistoryMapper.insert
+2026-07-17 12:19:02,585 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.messagesdk.mapper.MqMessageHistoryMapper.insert
+2026-07-17 12:19:02,590 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.messagesdk.mapper.MqMessageHistoryMapper.delete
+2026-07-17 12:19:02,590 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.messagesdk.mapper.MqMessageHistoryMapper.delete
+2026-07-17 12:19:02,592 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.messagesdk.mapper.MqMessageHistoryMapper.deleteByMap
+2026-07-17 12:19:02,592 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.messagesdk.mapper.MqMessageHistoryMapper.deleteByMap
+2026-07-17 12:19:02,594 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.messagesdk.mapper.MqMessageHistoryMapper.deleteById
+2026-07-17 12:19:02,594 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.messagesdk.mapper.MqMessageHistoryMapper.deleteById
+2026-07-17 12:19:02,597 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.messagesdk.mapper.MqMessageHistoryMapper.deleteBatchIds
+2026-07-17 12:19:02,597 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.messagesdk.mapper.MqMessageHistoryMapper.deleteBatchIds
+2026-07-17 12:19:02,600 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.messagesdk.mapper.MqMessageHistoryMapper.update
+2026-07-17 12:19:02,600 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.messagesdk.mapper.MqMessageHistoryMapper.update
+2026-07-17 12:19:02,603 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.messagesdk.mapper.MqMessageHistoryMapper.updateById
+2026-07-17 12:19:02,603 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.messagesdk.mapper.MqMessageHistoryMapper.updateById
+2026-07-17 12:19:02,603 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.messagesdk.mapper.MqMessageHistoryMapper.selectById
+2026-07-17 12:19:02,603 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.messagesdk.mapper.MqMessageHistoryMapper.selectById
+2026-07-17 12:19:02,605 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.messagesdk.mapper.MqMessageHistoryMapper.selectBatchIds
+2026-07-17 12:19:02,605 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.messagesdk.mapper.MqMessageHistoryMapper.selectBatchIds
+2026-07-17 12:19:02,608 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.messagesdk.mapper.MqMessageHistoryMapper.selectByMap
+2026-07-17 12:19:02,608 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.messagesdk.mapper.MqMessageHistoryMapper.selectByMap
+2026-07-17 12:19:02,610 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.messagesdk.mapper.MqMessageHistoryMapper.selectOne
+2026-07-17 12:19:02,610 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.messagesdk.mapper.MqMessageHistoryMapper.selectOne
+2026-07-17 12:19:02,611 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.messagesdk.mapper.MqMessageHistoryMapper.selectCount
+2026-07-17 12:19:02,611 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.messagesdk.mapper.MqMessageHistoryMapper.selectCount
+2026-07-17 12:19:02,614 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.messagesdk.mapper.MqMessageHistoryMapper.selectMaps
+2026-07-17 12:19:02,614 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.messagesdk.mapper.MqMessageHistoryMapper.selectMaps
+2026-07-17 12:19:02,617 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.messagesdk.mapper.MqMessageHistoryMapper.selectMapsPage
+2026-07-17 12:19:02,617 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.messagesdk.mapper.MqMessageHistoryMapper.selectMapsPage
+2026-07-17 12:19:02,620 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.messagesdk.mapper.MqMessageHistoryMapper.selectObjs
+2026-07-17 12:19:02,620 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.messagesdk.mapper.MqMessageHistoryMapper.selectObjs
+2026-07-17 12:19:02,622 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.messagesdk.mapper.MqMessageHistoryMapper.selectList
+2026-07-17 12:19:02,622 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.messagesdk.mapper.MqMessageHistoryMapper.selectList
+2026-07-17 12:19:02,624 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.messagesdk.mapper.MqMessageHistoryMapper.selectPage
+2026-07-17 12:19:02,624 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.messagesdk.mapper.MqMessageHistoryMapper.selectPage
+2026-07-17 12:19:02,926 INFO [main][StartupInfoLogger.java:61] - Started MessageProcessClassTest in 3.597 seconds (JVM running for 6.361)
+2026-07-17 12:19:02,926 INFO [main][StartupInfoLogger.java:61] - Started MessageProcessClassTest in 3.597 seconds (JVM running for 6.361)
+2026-07-17 12:19:03,561 DEBUG [main][HikariConfig.java:1066] - HikariPool-1 - configuration:
+2026-07-17 12:19:03,561 DEBUG [main][HikariConfig.java:1066] - HikariPool-1 - configuration:
+2026-07-17 12:19:03,566 DEBUG [main][HikariConfig.java:1098] - allowPoolSuspension.............false
+2026-07-17 12:19:03,566 DEBUG [main][HikariConfig.java:1098] - allowPoolSuspension.............false
+2026-07-17 12:19:03,568 DEBUG [main][HikariConfig.java:1098] - autoCommit......................true
+2026-07-17 12:19:03,568 DEBUG [main][HikariConfig.java:1098] - autoCommit......................true
+2026-07-17 12:19:03,568 DEBUG [main][HikariConfig.java:1098] - catalog.........................none
+2026-07-17 12:19:03,568 DEBUG [main][HikariConfig.java:1098] - catalog.........................none
+2026-07-17 12:19:03,570 DEBUG [main][HikariConfig.java:1098] - connectionInitSql...............none
+2026-07-17 12:19:03,570 DEBUG [main][HikariConfig.java:1098] - connectionInitSql...............none
+2026-07-17 12:19:03,570 DEBUG [main][HikariConfig.java:1098] - connectionTestQuery.............none
+2026-07-17 12:19:03,570 DEBUG [main][HikariConfig.java:1098] - connectionTestQuery.............none
+2026-07-17 12:19:03,571 DEBUG [main][HikariConfig.java:1098] - connectionTimeout...............30000
+2026-07-17 12:19:03,571 DEBUG [main][HikariConfig.java:1098] - connectionTimeout...............30000
+2026-07-17 12:19:03,571 DEBUG [main][HikariConfig.java:1098] - dataSource......................none
+2026-07-17 12:19:03,571 DEBUG [main][HikariConfig.java:1098] - dataSource......................none
+2026-07-17 12:19:03,572 DEBUG [main][HikariConfig.java:1098] - dataSourceClassName.............none
+2026-07-17 12:19:03,572 DEBUG [main][HikariConfig.java:1098] - dataSourceClassName.............none
+2026-07-17 12:19:03,573 DEBUG [main][HikariConfig.java:1098] - dataSourceJNDI..................none
+2026-07-17 12:19:03,573 DEBUG [main][HikariConfig.java:1098] - dataSourceJNDI..................none
+2026-07-17 12:19:03,574 DEBUG [main][HikariConfig.java:1098] - dataSourceProperties............{password=<masked>}
+2026-07-17 12:19:03,574 DEBUG [main][HikariConfig.java:1098] - dataSourceProperties............{password=<masked>}
+2026-07-17 12:19:03,575 DEBUG [main][HikariConfig.java:1098] - driverClassName................."com.mysql.cj.jdbc.Driver"
+2026-07-17 12:19:03,575 DEBUG [main][HikariConfig.java:1098] - driverClassName................."com.mysql.cj.jdbc.Driver"
+2026-07-17 12:19:03,576 DEBUG [main][HikariConfig.java:1098] - exceptionOverrideClassName......none
+2026-07-17 12:19:03,576 DEBUG [main][HikariConfig.java:1098] - exceptionOverrideClassName......none
+2026-07-17 12:19:03,576 DEBUG [main][HikariConfig.java:1098] - healthCheckProperties...........{}
+2026-07-17 12:19:03,576 DEBUG [main][HikariConfig.java:1098] - healthCheckProperties...........{}
+2026-07-17 12:19:03,576 DEBUG [main][HikariConfig.java:1098] - healthCheckRegistry.............none
+2026-07-17 12:19:03,576 DEBUG [main][HikariConfig.java:1098] - healthCheckRegistry.............none
+2026-07-17 12:19:03,577 DEBUG [main][HikariConfig.java:1098] - idleTimeout.....................600000
+2026-07-17 12:19:03,577 DEBUG [main][HikariConfig.java:1098] - idleTimeout.....................600000
+2026-07-17 12:19:03,577 DEBUG [main][HikariConfig.java:1098] - initializationFailTimeout.......1
+2026-07-17 12:19:03,577 DEBUG [main][HikariConfig.java:1098] - initializationFailTimeout.......1
+2026-07-17 12:19:03,578 DEBUG [main][HikariConfig.java:1098] - isolateInternalQueries..........false
+2026-07-17 12:19:03,578 DEBUG [main][HikariConfig.java:1098] - isolateInternalQueries..........false
+2026-07-17 12:19:03,579 DEBUG [main][HikariConfig.java:1098] - jdbcUrl.........................jdbc:mysql://192.168.101.65:3306/xcsheep_content?serverTimezone=UTC&userUnicode=true&useSSL=false&
+2026-07-17 12:19:03,579 DEBUG [main][HikariConfig.java:1098] - jdbcUrl.........................jdbc:mysql://192.168.101.65:3306/xcsheep_content?serverTimezone=UTC&userUnicode=true&useSSL=false&
+2026-07-17 12:19:03,580 DEBUG [main][HikariConfig.java:1098] - leakDetectionThreshold..........0
+2026-07-17 12:19:03,580 DEBUG [main][HikariConfig.java:1098] - leakDetectionThreshold..........0
+2026-07-17 12:19:03,581 DEBUG [main][HikariConfig.java:1098] - maxLifetime.....................1800000
+2026-07-17 12:19:03,581 DEBUG [main][HikariConfig.java:1098] - maxLifetime.....................1800000
+2026-07-17 12:19:03,581 DEBUG [main][HikariConfig.java:1098] - maximumPoolSize.................10
+2026-07-17 12:19:03,581 DEBUG [main][HikariConfig.java:1098] - maximumPoolSize.................10
+2026-07-17 12:19:03,582 DEBUG [main][HikariConfig.java:1098] - metricRegistry..................none
+2026-07-17 12:19:03,582 DEBUG [main][HikariConfig.java:1098] - metricRegistry..................none
+2026-07-17 12:19:03,583 DEBUG [main][HikariConfig.java:1098] - metricsTrackerFactory...........none
+2026-07-17 12:19:03,583 DEBUG [main][HikariConfig.java:1098] - metricsTrackerFactory...........none
+2026-07-17 12:19:03,583 DEBUG [main][HikariConfig.java:1098] - minimumIdle.....................10
+2026-07-17 12:19:03,583 DEBUG [main][HikariConfig.java:1098] - minimumIdle.....................10
+2026-07-17 12:19:03,584 DEBUG [main][HikariConfig.java:1098] - password........................<masked>
+2026-07-17 12:19:03,584 DEBUG [main][HikariConfig.java:1098] - password........................<masked>
+2026-07-17 12:19:03,585 DEBUG [main][HikariConfig.java:1098] - poolName........................"HikariPool-1"
+2026-07-17 12:19:03,585 DEBUG [main][HikariConfig.java:1098] - poolName........................"HikariPool-1"
+2026-07-17 12:19:03,585 DEBUG [main][HikariConfig.java:1098] - readOnly........................false
+2026-07-17 12:19:03,585 DEBUG [main][HikariConfig.java:1098] - readOnly........................false
+2026-07-17 12:19:03,585 DEBUG [main][HikariConfig.java:1098] - registerMbeans..................false
+2026-07-17 12:19:03,585 DEBUG [main][HikariConfig.java:1098] - registerMbeans..................false
+2026-07-17 12:19:03,586 DEBUG [main][HikariConfig.java:1098] - scheduledExecutor...............none
+2026-07-17 12:19:03,586 DEBUG [main][HikariConfig.java:1098] - scheduledExecutor...............none
+2026-07-17 12:19:03,586 DEBUG [main][HikariConfig.java:1098] - schema..........................none
+2026-07-17 12:19:03,586 DEBUG [main][HikariConfig.java:1098] - schema..........................none
+2026-07-17 12:19:03,588 DEBUG [main][HikariConfig.java:1098] - threadFactory...................internal
+2026-07-17 12:19:03,588 DEBUG [main][HikariConfig.java:1098] - threadFactory...................internal
+2026-07-17 12:19:03,589 DEBUG [main][HikariConfig.java:1098] - transactionIsolation............default
+2026-07-17 12:19:03,589 DEBUG [main][HikariConfig.java:1098] - transactionIsolation............default
+2026-07-17 12:19:03,589 DEBUG [main][HikariConfig.java:1098] - username........................"root"
+2026-07-17 12:19:03,589 DEBUG [main][HikariConfig.java:1098] - username........................"root"
+2026-07-17 12:19:03,590 DEBUG [main][HikariConfig.java:1098] - validationTimeout...............5000
+2026-07-17 12:19:03,590 DEBUG [main][HikariConfig.java:1098] - validationTimeout...............5000
+2026-07-17 12:19:03,591 INFO [main][HikariDataSource.java:110] - HikariPool-1 - Starting...
+2026-07-17 12:19:03,591 INFO [main][HikariDataSource.java:110] - HikariPool-1 - Starting...
+2026-07-17 12:19:03,880 DEBUG [main][HikariPool.java:564] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@24eb65e3
+2026-07-17 12:19:03,880 DEBUG [main][HikariPool.java:564] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@24eb65e3
+2026-07-17 12:19:03,882 INFO [main][HikariDataSource.java:123] - HikariPool-1 - Start completed.
+2026-07-17 12:19:03,882 INFO [main][HikariDataSource.java:123] - HikariPool-1 - Start completed.
+2026-07-17 12:19:03,890 DEBUG [main][BaseJdbcLogger.java:137] - ==>  Preparing: SELECT t.* FROM mq_message t WHERE t.id % ? = ? and t.state='0' and t.message_type=? limit ?
+2026-07-17 12:19:03,890 DEBUG [main][BaseJdbcLogger.java:137] - ==>  Preparing: SELECT t.* FROM mq_message t WHERE t.id % ? = ? and t.state='0' and t.message_type=? limit ?
+2026-07-17 12:19:03,916 DEBUG [main][BaseJdbcLogger.java:137] - ==> Parameters: 1(Integer), 0(Integer), test(String), 5(Integer)
+2026-07-17 12:19:03,916 DEBUG [main][BaseJdbcLogger.java:137] - ==> Parameters: 1(Integer), 0(Integer), test(String), 5(Integer)
+2026-07-17 12:19:03,941 DEBUG [main][BaseJdbcLogger.java:137] - <==      Total: 0
+2026-07-17 12:19:03,941 DEBUG [main][BaseJdbcLogger.java:137] - <==      Total: 0
+2026-07-17 12:19:03,947 DEBUG [main][MessageProcessAbstract.java:53] - 取出待处理消息0条
+2026-07-17 12:19:03,947 DEBUG [main][MessageProcessAbstract.java:53] - 取出待处理消息0条
+2026-07-17 12:19:03,988 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=1, active=0, idle=1, waiting=0)
+2026-07-17 12:19:03,988 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=1, active=0, idle=1, waiting=0)
+2026-07-17 12:19:04,004 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@551d2d42
+2026-07-17 12:19:04,004 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@551d2d42
+2026-07-17 12:19:04,015 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@21c54928
+2026-07-17 12:19:04,015 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@21c54928
+2026-07-17 12:19:04,024 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@60d50417
+2026-07-17 12:19:04,024 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@60d50417
+2026-07-17 12:19:04,032 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@747e5a5b
+2026-07-17 12:19:04,032 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@747e5a5b
+2026-07-17 12:19:04,040 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@170be6ea
+2026-07-17 12:19:04,040 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@170be6ea
+2026-07-17 12:19:04,048 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@48360983
+2026-07-17 12:19:04,048 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@48360983
+2026-07-17 12:19:04,057 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@3a73a469
+2026-07-17 12:19:04,057 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@3a73a469
+2026-07-17 12:19:04,066 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@2829b09b
+2026-07-17 12:19:04,066 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@2829b09b
+2026-07-17 12:19:04,076 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@164ab8f4
+2026-07-17 12:19:04,076 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@164ab8f4
+2026-07-17 12:19:04,076 DEBUG [HikariPool-1 connection adder][HikariPool.java:421] - HikariPool-1 - After adding stats (total=10, active=0, idle=10, waiting=0)
+2026-07-17 12:19:04,076 DEBUG [HikariPool-1 connection adder][HikariPool.java:421] - HikariPool-1 - After adding stats (total=10, active=0, idle=10, waiting=0)
+2026-07-17 12:19:33,994 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2026-07-17 12:19:33,994 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2026-07-17 12:19:33,995 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2026-07-17 12:19:33,995 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2026-07-17 12:20:03,995 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2026-07-17 12:20:03,995 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2026-07-17 12:20:03,996 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2026-07-17 12:20:03,996 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2026-07-17 12:20:10,315 INFO [SpringContextShutdownHook][HikariDataSource.java:350] - HikariPool-1 - Shutdown initiated...
+2026-07-17 12:20:10,315 INFO [SpringContextShutdownHook][HikariDataSource.java:350] - HikariPool-1 - Shutdown initiated...
+2026-07-17 12:20:10,317 DEBUG [SpringContextShutdownHook][HikariPool.java:421] - HikariPool-1 - Before shutdown stats (total=10, active=0, idle=10, waiting=0)
+2026-07-17 12:20:10,317 DEBUG [SpringContextShutdownHook][HikariPool.java:421] - HikariPool-1 - Before shutdown stats (total=10, active=0, idle=10, waiting=0)
+2026-07-17 12:20:10,318 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@24eb65e3: (connection evicted)
+2026-07-17 12:20:10,318 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@24eb65e3: (connection evicted)
+2026-07-17 12:20:10,330 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@551d2d42: (connection evicted)
+2026-07-17 12:20:10,330 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@551d2d42: (connection evicted)
+2026-07-17 12:20:10,331 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@21c54928: (connection evicted)
+2026-07-17 12:20:10,331 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@21c54928: (connection evicted)
+2026-07-17 12:20:10,332 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@60d50417: (connection evicted)
+2026-07-17 12:20:10,332 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@60d50417: (connection evicted)
+2026-07-17 12:20:10,334 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@747e5a5b: (connection evicted)
+2026-07-17 12:20:10,334 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@747e5a5b: (connection evicted)
+2026-07-17 12:20:10,335 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@170be6ea: (connection evicted)
+2026-07-17 12:20:10,335 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@170be6ea: (connection evicted)
+2026-07-17 12:20:10,336 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@48360983: (connection evicted)
+2026-07-17 12:20:10,336 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@48360983: (connection evicted)
+2026-07-17 12:20:10,338 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@3a73a469: (connection evicted)
+2026-07-17 12:20:10,338 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@3a73a469: (connection evicted)
+2026-07-17 12:20:10,338 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@2829b09b: (connection evicted)
+2026-07-17 12:20:10,338 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@2829b09b: (connection evicted)
+2026-07-17 12:20:10,340 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@164ab8f4: (connection evicted)
+2026-07-17 12:20:10,340 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@164ab8f4: (connection evicted)
+2026-07-17 12:20:10,340 DEBUG [SpringContextShutdownHook][HikariPool.java:421] - HikariPool-1 - After shutdown stats (total=0, active=0, idle=0, waiting=0)
+2026-07-17 12:20:10,340 DEBUG [SpringContextShutdownHook][HikariPool.java:421] - HikariPool-1 - After shutdown stats (total=0, active=0, idle=0, waiting=0)
+2026-07-17 12:20:10,341 INFO [SpringContextShutdownHook][HikariDataSource.java:352] - HikariPool-1 - Shutdown completed.
+2026-07-17 12:20:10,341 INFO [SpringContextShutdownHook][HikariDataSource.java:352] - HikariPool-1 - Shutdown completed.
